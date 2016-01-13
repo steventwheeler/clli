@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/clli.svg)](https://badge.fury.io/rb/clli)
+
 # CLLI
 
 This gem can be used to parse [Common Language Location Identification (CLLI) codes](https://en.wikipedia.org/wiki/CLLI_code). Given a CLLI this gem tries to determine the City, State/Provice, and Country the CLLI represents.
