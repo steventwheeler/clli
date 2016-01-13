@@ -1,0 +1,25 @@
+---
+# Quebec, Canada
+PQ:
+  state: QC
+  country: CA
+
+# Nunavut, Canada
+VU:
+  state: NU
+  country: CA
+
+# Newfoundland and Labrador, Canada
+NF:
+  state: NL
+  country: CA
+
+# High Seas / International Waters
+HS:
+  state:
+  country: XZ
+
+# Earth Orbit / Satellite
+EO:
+  state:
+  country: XS

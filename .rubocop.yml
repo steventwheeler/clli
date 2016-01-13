@@ -1,0 +1,6 @@
+AllCops:
+  Exclude:
+    - test/**/*.rb
+
+Metrics/LineLength:
+  Enabled: false

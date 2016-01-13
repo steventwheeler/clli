@@ -1,0 +1,672 @@
+---
+NWRKNJ23MG4:
+  place: NWRK
+  region: NJ
+  network_site: '23'
+  entity_code: MG4
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  entity_type: 'End Office Complete Switching System: Crossbar'
+NWRKNJ23MGA:
+  place: NWRK
+  region: NJ
+  network_site: '23'
+  entity_code: MGA
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  entity_type: 'End Office Complete Switching System: Crossbar'
+NWRKNJBRSG2:
+  place: NWRK
+  region: NJ
+  network_site: BR
+  entity_code: 'SG2'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  entity_type: 'End Office Complete Switching System: Step-By-Step'
+NWRKNJBRCG2:
+  place: NWRK
+  region: NJ
+  network_site: BR
+  entity_code: 'CG2'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  entity_type: 'End Office Complete Switching System: Electonic-Analog'
+NWRKNJBRDS2:
+  place: NWRK
+  region: NJ
+  network_site: BR
+  entity_code: 'DS2'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  entity_type: 'End Office Complete Switching System: Electonic-Digital'
+NWRKNJMA43E:
+  place: NWRK
+  region: NJ
+  network_site: MA
+  entity_code: '43E'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  entity_type: 'End Office: Single or Multiple Entity'
+NWRKNJMA38C:
+  place: NWRK
+  region: NJ
+  network_site: MA
+  entity_code: '38C'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  entity_type: 'End Office: Single or Multiple Entity'
+NWRKNJMA45H:
+  place: NWRK
+  region: NJ
+  network_site: MA
+  entity_code: '45H'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  entity_type: 'End Office: Single or Multiple Entity'
+ALSTNHLR853:
+  place: ALST
+  region: NH
+  network_site: LR
+  entity_code: '853'
+  state_code: NH
+  state_name: New Hampshire
+  country_code: US
+  country_name: United States
+  city_name: Alstead
+  entity_type: 'End Office: Single or Multiple Entity'
+NWRKNJMA23T:
+  place: NWRK
+  region: NJ
+  network_site: MA
+  entity_code: '23T'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  entity_type: 'Tandem Office: Individual Tandem'
+GRSBOHGRC3T:
+  place: GRSB
+  region: OH
+  network_site: GR
+  entity_code: 'C3T'
+  state_code: OH
+  state_name: Ohio
+  country_code: US
+  country_name: United States
+  city_name: Cincinnati
+  entity_type: 'Tandem Office Combination: Tandem/Tandem'
+FNDYOHPLB2T:
+  place: FNDY
+  region: OH
+  network_site: PL
+  entity_code: 'B2T'
+  state_code: OH
+  state_name: Ohio
+  country_code: US
+  country_name: United States
+  city_name: Findlay
+  entity_type: 'Tandem Office Combination: Tandem/Switchboard'
+LGVWTXMAB3T:
+  place: LGVW
+  region: TX
+  network_site: MA
+  entity_code: 'B3T'
+  state_code: TX
+  state_name: Texas
+  country_code: US
+  country_name: United States
+  city_name: Longview
+  entity_type: 'Tandem Office Combination: Tandem/Switchboard'
+SOVLNJSM5GT:
+  place: SOVL
+  region: NJ
+  network_site: SM
+  entity_code: '5GT'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Somerville
+  entity_type: 'Tandem Office Combination: Tandem/Marker or Control Group'
+ABRDOH79RS2:
+  place: ABRD
+  region: OH
+  network_site: '79'
+  entity_code: 'RS2'
+  state_code: OH
+  state_name: Ohio
+  country_code: US
+  country_name: United States
+  city_name: Aberdeen
+  entity_type: Remote Switching System
+HNTNOHMACG3:
+  place: HNTN
+  region: OH
+  network_site: MA
+  entity_code: 'CG3'
+  state_code: OH
+  state_name: Ohio
+  country_code: US
+  country_name: United States
+  city_name:
+  entity_type: 'End Office Complete Switching System: Electonic-Analog'
+NWRKNJ32ZCZ:
+  place: NWRK
+  region: NJ
+  network_site: '32'
+  entity_code: ZCZ
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  entity_type: Common Control Switching Arrangement
+CLEVOH62ZBZ:
+  place: CLEV
+  region: OH
+  network_site: '62'
+  entity_code: ZBZ
+  state_code: OH
+  state_name: Ohio
+  country_code: US
+  country_name: United States
+  city_name: Cleveland
+  entity_type: Common Control Switching Arrangement
+NWRKNJMAXBX:
+  place: NWRK
+  region: NJ
+  network_site: MA
+  entity_code: XBX
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  entity_type: Teletypewriter Switching System
+ATCYNJACCT3:
+  place: ATCY
+  region: NJ
+  network_site: AC
+  entity_code: 'CT3'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Atlantic City
+  entity_type: Concentrator
+NWRKNJMAF01:
+  place: NWRK
+  region: NJ
+  network_site: MA
+  entity_code: 'F01'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  entity_type: 'Frame (all types)'
+NWRKNJMAFA3:
+  place: NWRK
+  region: NJ
+  network_site: MA
+  entity_code: 'FA3'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  entity_type: 'Frame (all types)'
+NWRKNJMAFC2:
+  place: NWRK
+  region: NJ
+  network_site: MA
+  entity_code: 'FC2'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  entity_type: 'Frame (all types)'
+NWRKNJ23AU2:
+  place: NWRK
+  region: NJ
+  network_site: '23'
+  entity_code: 'AU2'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  entity_type: Administrative Entity
+PSSCNJPSA23:
+  place: PSSC
+  region: NJ
+  network_site: PS
+  entity_code: 'A23'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Passaic
+  entity_type: Administrative Entity
+PSSCNJMAA46:
+  place: PSSC
+  region: NJ
+  network_site: MA
+  entity_code: 'A46'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Passaic
+  entity_type: Administrative Entity
+HMLTNCMAE22:
+  place: HMLT
+  region: NC
+  network_site: MA
+  entity_code: 'E22'
+  state_code: NC
+  state_name: North Carolina
+  country_code: US
+  country_name: United States
+  city_name: Hamlet
+  entity_type: Exchange Switchroom
+ATLNGAMAK32:
+  place: ATLN
+  region: GA
+  network_site: MA
+  entity_code: 'K32'
+  state_code: GA
+  state_name: Georgia
+  country_code: US
+  country_name: United States
+  city_name: Forest Park
+  entity_type: 'Software Cross-connectable Entity'
+HMLTNCMAM35:
+  place: HMLT
+  region: NC
+  network_site: MA
+  entity_code: 'M35'
+  state_code: NC
+  state_name: North Carolina
+  country_code: US
+  country_name: United States
+  city_name: Hamlet
+  entity_type: 'Maintenance Group (including work centers, such as Switching Control Centers, and Operations Systems such as CAROT, CMS, CTMS)'
+RLGHNCMAP23:
+  place: RLGH
+  region: NC
+  network_site: MA
+  entity_code: 'P23'
+  state_code: NC
+  state_name: North Carolina
+  country_code: US
+  country_name: United States
+  city_name: Raleigh
+  entity_type: Test or Service Position
+NWRKNJMAP34:
+  place: NWRK
+  region: NJ
+  network_site: MA
+  entity_code: 'P34'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  entity_type: Test or Service Position
+NYCMNYMAQ23:
+  place: NYCM
+  region: NY
+  network_site: MA
+  entity_code: 'Q23'
+  state_code: NY
+  state_name: New York
+  country_code: US
+  country_name: United States
+  city_name: New York
+  entity_type: 'Radio Tower (collocated on building)'
+GNVLMSMAS23:
+  place: GNVL
+  region: MS
+  network_site: MA
+  entity_code: 'S23'
+  state_code: MS
+  state_name: Mississippi
+  country_code: US
+  country_name: United States
+  city_name: Greenville
+  entity_type: Service Center
+GNVLMSMASTC:
+  place: GNVL
+  region: MS
+  network_site: MA
+  entity_code: STC
+  state_code: MS
+  state_name: Mississippi
+  country_code: US
+  country_name: United States
+  city_name: Greenville
+  entity_type: Service Center
+GNVLMSMASA2:
+  place: GNVL
+  region: MS
+  network_site: MA
+  entity_code: 'SA2'
+  state_code: MS
+  state_name: Mississippi
+  country_code: US
+  country_name: United States
+  city_name: Greenville
+  entity_type: Service Center
+WVVYNHMRT2A:
+  place: WVVY
+  region: NH
+  network_site: MR
+  entity_code: 'T2A'
+  state_code: NH
+  state_name: New Hampshire
+  country_code: US
+  country_name: United States
+  city_name: Waterville Valley
+  entity_type: 'Toll Test Room (or Board)'
+HMDSNYHSWPR:
+  place: HMDS
+  region: NY
+  network_site: HS
+  entity_code: WPR
+  state_code: NY
+  state_name: New York
+  country_code: US
+  country_name: United States
+  city_name:
+  entity_type: Other Nonswitching Entity
+SSMRMIB2232:
+  place: SSMR
+  region: MI
+  location_code: B
+  location_id: '2232'
+  state_code: MI
+  state_name: Michigan
+  country_code: US
+  country_name: United States
+  city_name: Sault Ste Marie
+  location_type: International Boundary Crossing Point
+JRCYNJE2345:
+  place: JRCY
+  region: NJ
+  location_code: E
+  location_id: '2345'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Jersey City
+  location_type: End Point
+KLGRNEJ2345:
+  place: KLGR
+  region: NE
+  location_code: J
+  location_id: '2345'
+  state_code: NE
+  state_name: Nebraska
+  country_code: US
+  country_name: United States
+  city_name: Kilgore
+  location_type: Junction
+TOLDOHM5234:
+  place: TOLD
+  region: OH
+  location_code: M
+  location_id: '5234'
+  state_code: OH
+  state_name: Ohio
+  country_code: US
+  country_name: United States
+  city_name: Toledo
+  location_type: Manhole
+TOLDOHP2453:
+  place: TOLD
+  region: OH
+  location_code: P
+  location_id: '2453'
+  state_code: OH
+  state_name: Ohio
+  country_code: US
+  country_name: United States
+  city_name: Toledo
+  location_type: Pole
+PSSCNJQ6789:
+  place: PSSC
+  region: NJ
+  location_code: Q
+  location_id: '6789'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Passaic
+  location_type: Radio
+PSSCNJQ2345:
+  place: PSSC
+  region: NJ
+  location_code: Q
+  location_id: '2345'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Passaic
+  location_type: Radio
+DRSDOHR2234:
+  place: DRSD
+  region: OH
+  location_code: R
+  location_id: '2234'
+  state_code: OH
+  state_name: Ohio
+  country_code: US
+  country_name: United States
+  city_name: Dresden
+  location_type: Repeater
+DRSDOHR7889:
+  place: DRSD
+  region: OH
+  location_code: R
+  location_id: '7889'
+  state_code: OH
+  state_name: Ohio
+  country_code: US
+  country_name: United States
+  city_name: Dresden
+  location_type: Repeater
+PSSCNJS3222:
+  place: PSSC
+  region: NJ
+  location_code: S
+  location_id: '3222'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Passaic
+  location_type: Toll Station
+STSDMIU4567:
+  place: STSD
+  region: MI
+  location_code: U
+  location_id: '4567'
+  state_code: MI
+  state_name: Michigan
+  country_code: US
+  country_name: United States
+  city_name:
+  location_type: Other
+STLTEOQ8232:
+  place: STLT
+  region: EO
+  location_code: Q
+  location_id: '8232'
+  state_code:
+  state_name:
+  country_code: XS
+  country_name:
+  city_name:
+  location_type: Radio
+RBBNMNX2342:
+  place: RBBN
+  region: MN
+  location_code: X
+  location_id: '2342'
+  state_code: MN
+  state_name: Minnesota
+  country_code: US
+  country_name: United States
+  city_name:
+  location_type: Independent Telephone Company Nonbuilding Location
+NWRKNJ2A146:
+  place: NWRK
+  region: NJ
+  customer_code: '2'
+  customer_id: 'A146'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  location_type: Customer Location
+NWRKNJ2A147:
+  place: NWRK
+  region: NJ
+  customer_code: '2'
+  customer_id: 'A147'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name: Newark
+  location_type: Customer Location
+UNVTMIUM752:
+  place: UNVT
+  region: MI
+  network_site: UM
+  entity_code: '752'
+  state_code: MI
+  state_name: Michigan
+  country_code: US
+  country_name: United States
+  city_name:
+  entity_type: 'End Office: Single or Multiple Entity'
+WXYZNJMAMG1:
+  place: WXYZ
+  region: NJ
+  network_site: MA
+  entity_code: 'MG1'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name:
+  entity_type: 'End Office Complete Switching System: Crossbar'
+WXYZNJMA23A:
+  place: WXYZ
+  region: NJ
+  network_site: MA
+  entity_code: '23A'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name:
+  entity_type: 'End Office: Single or Multiple Entity'
+WXYZNJMA92A:
+  place: WXYZ
+  region: NJ
+  network_site: MA
+  entity_code: '92A'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name:
+  entity_type: 'End Office: Single or Multiple Entity'
+WXYZNJMA01T:
+  place: WXYZ
+  region: NJ
+  network_site: MA
+  entity_code: '01T'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name:
+  entity_type: 'Tandem Office: Individual Tandem'
+WXYZNJMA2GT:
+  place: WXYZ
+  region: NJ
+  network_site: MA
+  entity_code: '2GT'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name:
+  entity_type: 'Tandem Office Combination: Tandem/Marker or Control Group'
+WXYZNJMA233:
+  place: WXYZ
+  region: NJ
+  network_site: MA
+  entity_code: '233'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name:
+  entity_type: 'End Office: Single or Multiple Entity'
+WXYZNJMA232:
+  place: WXYZ
+  region: NJ
+  network_site: MA
+  entity_code: '232'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name:
+  entity_type: 'End Office: Single or Multiple Entity'
+WXYZNJMA922:
+  place: WXYZ
+  region: NJ
+  network_site: MA
+  entity_code: '922'
+  state_code: NJ
+  state_name: New Jersey
+  country_code: US
+  country_name: United States
+  city_name:
+  entity_type: 'End Office: Single or Multiple Entity'
