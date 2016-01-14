@@ -1,4 +1,5 @@
 [![Gem Version](https://badge.fury.io/rb/clli.svg)](https://badge.fury.io/rb/clli)
+[![Build Status](https://travis-ci.org/steventwheeler/clli.svg)](https://travis-ci.org/steventwheeler/clli)
 
 # CLLI
 
