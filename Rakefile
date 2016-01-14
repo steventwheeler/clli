@@ -10,7 +10,7 @@ Rake::TestTask.new(:test) do |t|
   t.test_files = FileList['test/**/*_test.rb']
 end
 
-task default: :spec
+task default: :test
 
 namespace :generate do
   task :city_cache do
