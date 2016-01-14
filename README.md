@@ -1,5 +1,6 @@
 [![Gem Version](https://badge.fury.io/rb/clli.svg)](https://badge.fury.io/rb/clli)
 [![Build Status](https://travis-ci.org/steventwheeler/clli.svg)](https://travis-ci.org/steventwheeler/clli)
+[![Code Climate](https://codeclimate.com/github/steventwheeler/clli/badges/gpa.svg)](https://codeclimate.com/github/steventwheeler/clli)
 
 # CLLI
 
