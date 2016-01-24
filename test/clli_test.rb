@@ -20,6 +20,7 @@ class CLLITest < Minitest::Test
 
   test 'must not parse invalid CLLI strings' do
     tests = [nil, '', 'MP SMNMA01T']
+    tests += load_data(%w(data invalid.yml))
     tests.each do |clli|
       assert_raises(RuntimeError, "#{clli.inspect} should not be parseable") do
         CLLI.new(clli)
@@ -33,6 +34,9 @@ class CLLITest < Minitest::Test
 
     CSV.foreach(file) do |row|
       original_clli = clli = row[7].strip
+      next if /\AX+\z/ =~ clli
+      skip = ['NOCLLIKNOWN', 'ALL SWITCHE']
+      next if skip.include?(clli)
       next if clli.size != 8 && clli.size != 11
 
       # Normalize the CLLI.
@@ -42,7 +46,9 @@ class CLLITest < Minitest::Test
       end
       next if original_clli != clli
 
-      refute_nil CLLI.new(clli, strict: false), "failed to parse #{clli.inspect}"
+      c = CLLI.new(clli, strict: false)
+      refute_nil c, "failed to parse #{clli.inspect}"
+      refute_nil c.country_code, "#{clli.inspect} should have a country code"
     end
   end
 end

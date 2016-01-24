@@ -12,7 +12,7 @@ class Minitest::Test
 
   def load_data(*paths)
     data = YAML.load_file(real_path(paths))
-    data = deep_symbolize_keys(data)
+    data = deep_symbolize_keys(data) if data.is_a?(Hash)
     data.freeze
   end
 

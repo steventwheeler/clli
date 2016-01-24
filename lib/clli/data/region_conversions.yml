@@ -23,3 +23,8 @@ HS:
 EO:
   state:
   country: XS
+
+# SAIPAN, NN - https://en.wikipedia.org/wiki/Susupe
+NN:
+  state:
+  country: MP

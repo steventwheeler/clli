@@ -45,7 +45,7 @@ class CLLI
         entity_code = entity_code_pattern(options)
         nonbuilding_location = nonbuilding_location_pattern(options)
         customer_location = customer_location_pattern(options)
-        "#{place}(?:#{network_site}(?:#{entity_code})?|#{nonbuilding_location}|#{customer_location})"
+        "\\A#{place}(?:#{network_site}(?:#{entity_code})?|#{nonbuilding_location}|#{customer_location})\\z"
       end
 
       ##
@@ -85,18 +85,26 @@ class CLLI
       # +options+:: see #pattern for more details.
       def entity_code_pattern(**options)
         options = DEFAULT_PATTERN_OPTIONS.merge(options)
-        named_group(options[:entity_code_group], [
+        named_group(options[:entity_code_group], options[:strict] ? strict_entity_code_pattern : relaxed_entity_code_pattern)
+      end
+
+      def strict_entity_code_pattern
+        [
           switching_entity_code_pattern, # (Table B)
           switchboard_and_desk_entity_code_pattern, # (Table C)
           miscellaneous_switching_termination_entity_code_pattern, # (Table D)
           nonswitching_entity_code_pattern # (Table E)
-        ].join('|'))
+        ].join('|')
+      end
+
+      def relaxed_entity_code_pattern
+        '[A-Z0-9]{3}'
       end
 
       # Switching Entities (Table B)
       def switching_entity_code_pattern
         [
-          "(?:MG|SG|CG|DS|[#{n}][#{n}])[#{x1}]",
+          "(?:MG|SG|CG|DS|RL|PS|RP|CM|VS|OS|OL|[#{n}][#{n}])[#{x1}]",
           "[CB#{n}][#{n}]T",
           "[#{n}]GT",
           "Z[#{a}]Z",

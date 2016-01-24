@@ -13,6 +13,14 @@ switching_types:
   RSn: 'Remote Switching System'
   XaX: 'Teletypewriter Switching System'
   CTx: 'Concentrator'
+  # From: https://groups.google.com/forum/#!topic/comp.dcom.telecom/2YEFiwbDLo8
+  RLx: 'Remote Line Card'
+  PSx: 'Packet Switch'
+  RPx: 'Remote Packet Switch'
+  CMx: 'Cellular/Mobile Switch'
+  VSx: 'Video Switch'
+  OSx: 'Optical Switch'
+  OLx: 'Optical Line Card'
 
 switchboard_and_desk:
   C: 'Centralized Automatic Message Accounting (CAMA) Board'
