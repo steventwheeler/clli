@@ -1,8 +1,9 @@
+# CLLI
+
 [![Gem Version](https://badge.fury.io/rb/clli.svg)](https://badge.fury.io/rb/clli)
 [![Build Status](https://travis-ci.org/steventwheeler/clli.svg)](https://travis-ci.org/steventwheeler/clli)
 [![Code Climate](https://codeclimate.com/github/steventwheeler/clli/badges/gpa.svg)](https://codeclimate.com/github/steventwheeler/clli)
-
-# CLLI
+[![security](https://hakiri.io/github/steventwheeler/clli/master.svg)](https://hakiri.io/github/steventwheeler/clli/master)
 
 This gem can be used to parse [Common Language Location Identification (CLLI) codes](https://en.wikipedia.org/wiki/CLLI_code). Given a CLLI this gem tries to determine the City, State/Provice, and Country the CLLI represents.
 
